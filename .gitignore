@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+.idea/
+published/
+*.user
+*.suo
+*.log
+promt.md
+GUIA_LAB14_PASO_A_PASO.md
